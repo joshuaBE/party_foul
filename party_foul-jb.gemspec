@@ -3,7 +3,7 @@ require File.expand_path('../lib/party_foul/version', __FILE__)
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = 'party_foul'
+  s.name        = 'party_foul-jb'
   s.version     = PartyFoul::VERSION
   s.authors     = ['Brian Cardarella', 'Dan McClain']
   s.email       = ['bcardarella@gmail.com', 'rubygems@danmcclain.net']
